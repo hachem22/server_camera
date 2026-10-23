@@ -1,0 +1,24 @@
+{
+  "name": "serveur_camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hachem22/server_camera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hachem22/server_camera/issues"
+  },
+  "homepage": "https://github.com/hachem22/server_camera#readme",
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
